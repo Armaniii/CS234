@@ -19,6 +19,7 @@ body {
 
 h3 {
 	margin: 10px 0;
+	
 }
 
 h6 {
@@ -32,6 +33,7 @@ p {
 }
 
 .card-container {
+	
 	background-color: #231E39;
 	border-radius: 5px;
 	box-shadow: 30px 10px 20px -10px rgba(0,0,0,0.75);
@@ -81,6 +83,7 @@ button.primary.ghost {
 	text-align: left;
 	padding: 15px;
 	margin-top: 30px;
+	
 }
 
 .skills ul {
