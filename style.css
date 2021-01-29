@@ -40,9 +40,9 @@ p {
 	color: #B3B8CD;
 	padding-top: 40px;
 	position: relative;
-	width: 350px;
-	max-width: 100%;
+	width: 15%;
 	text-align: center;
+	overflow:hidden;
 }
 .card-container .pro {
 	color: #231E39;
