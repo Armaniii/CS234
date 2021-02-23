@@ -5,13 +5,14 @@
 }
 
 body {
-	background-color: #28223F;
+	background-color: #fffff;
 	font-family: Montserrat, sans-serif;
 	
 	display: flex;
 	align-items: top;
 	justify-content: top;
 	flex-direction: column;
+	color:#000000;
 
 	min-height: 100vh;
 	margin: 0;
@@ -19,22 +20,28 @@ body {
 
 h3 {
 	margin: 10px 0;
+	color:#000000;
 	
 }
 
 h6 {
 	margin: 5px 0;
 	text-transform: uppercase;
+	color:#000000;
+
+
 }
 
 p {
 	font-size: 14px;
 	line-height: 21px;
+		color:#000000;
+
 }
 
 .card-container {
 	
-	background-color: #231E39;
+	background-color: #fffff;
 	border-radius: 5px;
 	box-shadow: 30px 10px 20px -10px rgba(0,0,0,0.75);
 	color: #B3B8CD;
@@ -46,7 +53,7 @@ p {
 	
 }
 .card-container .pro {
-	color: #231E39;
+	color: #fffff;
 	background-color: #FEBB0B;
 	border-radius: 3px;
 	font-size: 14px;
@@ -80,7 +87,7 @@ button.primary.ghost {
 }
 
 .skills {
-	background-color: #1F1A36;
+	background-color: #fffff;
 	text-align: left;
 	padding: 15px;
 	margin-top: 30px;
@@ -100,6 +107,8 @@ button.primary.ghost {
 	font-size: 12px;
 	margin: 0 7px 7px 0;
 	padding: 7px;
+		color:#000000;
+
 }
 
 .fa {
@@ -124,9 +133,4 @@ button.primary.ghost {
   background: #fffff;
   color: white;
 }
-
-
-
-
-
 
